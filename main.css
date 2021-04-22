@@ -1,0 +1,35 @@
+/* rule-set #1: Everything within the body tag will have a lightcoral background. */
+body {
+    background-color: lightcoral;
+}
+
+/* rule-set #2 */
+#number-one{
+    color: green;
+}
+
+.widthheight1{
+    height: 300px;
+    width: 75%;
+    background-color: chocolate;
+}
+
+#margin-experiment1{
+    height: 50px;
+    background: red;
+        border: 5px solid black;
+        margin: 0px 0px 0px opx
+}
+
+h1{
+    font: bolder;
+    font-style:italic;
+}
+
+.background1{
+    background-color: blanchedalmond;
+}
+
+p{
+    border: 5px solid slateblue
+}
